@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'ShadowPPath'
-s.version      = '1.0.1'
+s.version      = '2.2.2'
 s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
 s.summary      = 'A replacement for ShadowPPath'
 s.homepage     = 'https://github.com/SpikeLeeHom/ShadowPPath'
